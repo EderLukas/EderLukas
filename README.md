@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EderLukas
 - 👀 I’m interested in Backend Development / Software Development, DevOps, Machine Learning
-- 🌱 I’m currently learning Java, C#, Curiculum of Advanced Technical College
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
