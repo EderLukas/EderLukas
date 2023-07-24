@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EderLukas
-- 👀 I’m interested in Backend Development / Software Development, DevOps, Machine Learning
+- 👀 I’m interested in Backend Development / Software Development, DevOps
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
