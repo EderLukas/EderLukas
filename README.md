@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EderLukas
-- 👀 I’m interested in Backend Development / Software Development, DevOps
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Backend Development / Software Development, Linux and CyberSec
+- 🌱 I’m currently learning Java, C, Linux Kernel
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
